@@ -13,7 +13,7 @@ spec:
         app: v2ws
     spec:
       containers:
-      - image: Dockerfile
+      - image: qjq2009cs/v2tls-docker
         name: v2ws
 
 ---
